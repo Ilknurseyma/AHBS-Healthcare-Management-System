@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\ahbs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\ahbs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\ahbs.csproj",
+        "projectName": "ahbs",
+        "projectPath": "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\ahbs.csproj",
+        "packagesPath": "C:\\Users\\Zilan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Zilan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MahApps.Metro.IconPacks.FontAwesome": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[5.0.1-ci644, )"
+            },
+            "MaterialSkin.2": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

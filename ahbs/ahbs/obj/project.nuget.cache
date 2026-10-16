@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvXpy8dLOott/HcMpek9DSVG0qI9uzq+Y4Ctu+HnTns3J2tZj621TySXJ9FD0RzVY2lHx4VeZLKUxuw5gproIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zilan\\Desktop\\c# proje son\\ahbs\\ahbs\\ahbs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zilan\\.nuget\\packages\\mahapps.metro.iconpacks.fontawesome\\4.11.0\\mahapps.metro.iconpacks.fontawesome.4.11.0.nupkg.sha512",
+    "C:\\Users\\Zilan\\.nuget\\packages\\materialdesigncolors\\3.1.0-ci644\\materialdesigncolors.3.1.0-ci644.nupkg.sha512",
+    "C:\\Users\\Zilan\\.nuget\\packages\\materialdesignthemes\\5.0.1-ci644\\materialdesignthemes.5.0.1-ci644.nupkg.sha512",
+    "C:\\Users\\Zilan\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\Zilan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Zilan\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
