@@ -1,16 +1,14 @@
-# AHBS-Healthcare-Management-System
-A C# and MSSQL-based Healthcare Management System (AHBS) featuring doctor/patient modules and appointment tracking.
-# Healthcare Management System (AHBS)
+# Aile Hekimliği Bilgilendirme Sistemi (AHBS)
 
-This repository contains the Healthcare Management System (AHBS) project built with C# and MSSQL database. It was studied as part of academic coursework to understand multi-tier desktop application structures, database relations, and user role management.
+Bu proje, üniversite öğrenimim sırasında ekip arkadaşlarımla birlikte geliştirdiğimiz bir Aile Hekimliği Bilgilendirme Sistemi (AHBS) akademik çalışmasıdır.
 
-## 🚀 Key Features
-- **User Authentication:** Distinct login panels for Patients, Doctors, and Administrators.
-- **Doctor Module:** Patient records, medical history, and examination logs.
-- **Patient Module:** Personal health status tracking and appointment requests.
-- **UI Design:** Modern user interface styled with the MaterialSkin library.
+Projenin temel amacı; C# ve MSSQL veritabanı kullanarak temel düzeyde uygulama mantığını ve veritabanı ilişkilerini deneyimlemektir.
 
-## 🛠️ Tech Stack
-- **Language:** C# (.NET Framework)
-- **Database:** Microsoft SQL Server (MSSQL)
-- **IDE:** Visual Studio
+## 📌 Proje Kapsamı ve Genel Özellikler
+- **Ekip Çalışması:** Ekip arkadaşlarımla görev paylaşımı yapılarak tamamlanmıştır.
+- **Temel Modüller:** Doktor ve hasta ekranları üzerinden basit kayıt ve randevu takibi işlevleri.
+- **Veritabanı:** MSSQL veritabanı bağlantısı ile temel veri listeleme ve kaydetme işlemleri.
+
+## 🛠️ Kullanılan Teknolojiler
+- **Dil / Platform:** C# (.NET)
+- **Veritabanı:** Microsoft SQL Server (MSSQL)
