@@ -13,5 +13,4 @@ This repository contains the Healthcare Management System (AHBS) project built w
 ## 🛠️ Tech Stack
 - **Language:** C# (.NET Framework)
 - **Database:** Microsoft SQL Server (MSSQL)
-- **UI Library:** MaterialSkin
 - **IDE:** Visual Studio
